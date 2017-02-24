@@ -1,0 +1,164 @@
+#form-list{
+	position:absolute;
+	background: #ffffff none repeat scroll 0 0;
+    border-radius: 3px;
+    box-shadow: 1px 1px 4px rgba(100, 100, 100, 0.4);
+    margin-bottom: 10px;
+    margin-top: 13px;
+	margin-left:10px;
+	
+	padding-right:20px;
+    overflow: hidden;
+    padding-bottom: 0;
+	
+	
+}
+#signup_container{
+	padding-bottom:10px;
+	padding-left:17px;
+	margin:0 auto;
+}
+h2.title {
+    color: #21469e;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px 20px 20px;
+    position: relative;
+    text-align: left;
+}
+.title small{
+	color: #ff0214;
+  
+}
+.trans-box {
+    border: 1px solid #d2d2d2 ;
+    min-height: 250px;
+    min-width: 100%;
+}
+#form-register {
+    margin: 0;
+}
+#form-list .list {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+	
+}
+#form-list .list li {
+    padding: 2px 20px;
+	padding-right:10px;
+	float:left;
+	
+}
+#form-register input[type="text"], #form-register input[type="password"], #form-register input[type="email"], #form-register input[type="phone"] {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    box-shadow: 0 0 0 2px #f4f4f4;
+    color: #656565;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 3px 6px;
+    width: 265px;
+	
+}
+
+form .error {
+    color: red;
+}
+#signup_container .css-contry-code {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-shadow: 0 0 0 2px #f4f4f4;
+    color: #676767;
+    font-size: 12px;
+    height: 25px;
+    line-height: 25px;
+    padding: 3px 0 2px;
+    width: 92px;
+}
+#form-register select {
+    border: 1px solid #bdd3f6;
+    color: #222222;
+    font-family: inherit;
+    font-size: 15px;
+    line-height: 1.4em;
+    padding: 1px;
+    width: 98%;
+}
+.float-l {
+    float: left;
+}
+
+#form-register label {
+    font-size: 12px;
+    line-height: 18px;
+    padding: 2px;
+}
+#form-register input[type="radio"] {
+    border: medium none;
+    padding: 5px;
+}
+
+#form-register .dob_date .float-l {
+    width: 88px;
+	
+}
+.float-l {
+    float: left;
+}
+
+#form-register select {
+    border: 1px solid #bdd3f6;
+    color: #222222;
+    font-family: inherit;
+    font-size: 15px;
+    line-height: 1.4em;
+    padding: 1px;
+    width: 98%;
+	height:30px;
+}
+#form-list .panel-footer {
+    background: #f0f0f0 none repeat scroll 0 0;
+    border-radius: 0 0 3px 3px;
+    border-top: 1px solid #dadada;
+    padding: 5px 35px;
+}
+.panel-footer {
+    font-size: 11px;
+    line-height: 15px;
+}
+ #form-list .panel-footer p {
+    margin: 0.5em 0 !important;
+}
+ .panel-footer a {
+    color: #21469e;
+}
+a {
+    color: #777;
+    text-decoration: none;
+}
+#form-list .panel-footer .panel-tools {
+    text-align: right;
+}
+#form-register .button {
+    width: 75px;
+}
+
+.button {
+    background-color: #21469e;
+    border: 0 solid #124d77;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Futura,"Century Gothic",AppleGothic,sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 30px;
+    padding: 5px 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
